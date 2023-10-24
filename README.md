@@ -3,8 +3,8 @@
 Release according to data protection provision "Open Data Agreement of 8.12.2020" between Senozon Deutschland and the VSP department at the TU Berlin.
 
 EPISIM-MODEL OF THE VSP DEPARTMENT AT THE TU BERLIN:
-# The usage and download of the following open available files are only allowed for an epidemiological simulation of Berlin.
-# Do not use the files for other simulations.
+## The usage and download of the following open available files are only allowed for an epidemiological simulation of Berlin.
+## Do not use the files for other simulations.
 
 The open availbale model includes a 25 percent sample. The code for running the simulation is also open available under: https://github.com/matsim-org/matsim-episim
 More information you find on our website: https://covid-sim.info/
